@@ -1,8 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
 h1 {
     text-align: center;
-    color: aqua;
+    color: rgb(0, 26, 255);
 }
 
 .mainH {
     background-color: bisque;
+}
+
+.loginD {
+    background-color: lightgray;
+    text-align: center;
 }
